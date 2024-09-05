@@ -1,6 +1,6 @@
 
  
- <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+ <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true" >
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <p align="center">
@@ -11,7 +11,7 @@
   </a>
 
 
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
    <h1 align="center"> Hi 👋, I'm Musa Rahd ☝🏻 &&  A passionate frontend developer</h1>
@@ -22,17 +22,17 @@
 
 
 <p align="center">
-<a ><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a >
 <a \><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a ><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a ><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a ><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a ><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
-<a><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 
@@ -45,8 +45,8 @@
 </p>
 
 <p align="center">
-<a><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 
@@ -59,37 +59,37 @@
 ###
 <p align="center"> 
  <p align="center">
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25" />
   </a>
   <a>
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
   </a>
-  <a >
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
   </a>
 </p>
@@ -105,7 +105,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="https://github.com/Darkcode-it" target="_blank" >
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>Python
@@ -227,7 +227,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a>
+    <a href="https://github.com/Darkcode-it" target="_blank" >
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrohitofficial&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
@@ -287,32 +287,32 @@
 <br clear="both">
 
  <p align="center">
-  <a >
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a >
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a>
+  <a href="https://github.com/Darkcode-it" target="_blank" >
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
   </a>
   
@@ -323,7 +323,7 @@
 <p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+<a href="https://github.com/Darkcode-it" target="_blank" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
 
