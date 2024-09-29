@@ -14,6 +14,18 @@
 <p align="center"> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
+
+
+  <a href="https://github.com/Darkcode-it" target="_blank"  align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
+  </a>
+
+  
+  <a align="center" href="https://github.com/Darkcode-it" target="_blank" >
+    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
+  </a>
+
+
    <h1 align="center"> Hi 👋, I'm Musa Rahd ☝🏻 &&  A passionate frontend developer</h1>
 
   
@@ -32,55 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
-<p align="center">
-<a href="https://github.com/Darkcode-it" target="_blank" ><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
 
-
-<!-- <p align="center">
-  <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
-</p>
-
-<br/>
-
-###
-<p align="center"> 
- <p align="center">
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25" />
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
-  </a>
-</p>
 
 
 ####
@@ -223,9 +187,9 @@
 <div align="center">
 
 
-<a href="https://github.com/Darkcode-it" target="_blank"  ><img  alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center"  /></a>
+<a href="https://www.instagram.com/musarahdit?igsh=eW4weGpjdWFjYncz&utm_source=qr" target="_blank"  ><img  alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center"  /></a>
 
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="darkcodeit@icloud.com" target="_blank" ><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 
@@ -244,12 +208,16 @@
 
 <div align="center">
     <i style="font-size: 10px;">
-        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
+        "Don't ever let somebody tell you, you can't do something! <br>
+     <b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves,
+     they wanna tell you you can’t do it. <br>
+     <b>If you want something, go get it. Period</b>"
 
 
       "هرگز اجازه نده کسی به تو بگوید، تو نمی توانی کاری را انجام دهی!
 شما رویایی دارید... باید از آن محافظت کنید.
-مردم خودشان نمی توانند کاری را انجام دهند، می خواهند به شما بگویند که نمی توانید آن را انجام دهید.
+مردم خودشان نمی توانند کاری را انجام دهند،
+می خواهند به شما بگویند که نمی توانید آن را انجام دهید.
     </i>
 </div>
 
