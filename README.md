@@ -21,19 +21,7 @@
   
 
 
-<p align="center">
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a >
-<a \><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
-<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-</p>
+
 
 
 
@@ -102,118 +90,118 @@
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
+      <br>
     </td>
     <td align="center" width="96">
       <a href="https://github.com/Darkcode-it" target="_blank" >
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
-      <br>Python
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C#
+      <br>
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      <br>Django
+      <br>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
+      <br>
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
+      <br>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
+      <br>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
+      <br>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
-      <br>Android
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
+      <br>
     </td>
   </tr>
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
+      <br>
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
+      <br>
       </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
+      <br>
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br>WordPress
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
-      <br>Dotnet
+      <br>
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
       </a>
-      <br>SQLite
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-      <br>Java
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <br>
     </td>
  </tr>
 </table>
@@ -225,13 +213,7 @@
 
 
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://github.com/Darkcode-it" target="_blank" >
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrohitofficial&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
+
 
 
 
@@ -240,27 +222,17 @@
 ---
 <div align="center">
 
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<a href="https://github.com/Darkcode-it" target="_blank"  ><img  alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center"  /></a>
+
+<a href="https://github.com/Darkcode-it" target="_blank" ><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+</p>
 
 
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
 
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
-
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 
