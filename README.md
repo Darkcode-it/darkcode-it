@@ -21,17 +21,6 @@
 <p align="center">
   Hello, everyone! All my projects include live demo capabilities. I'm passionate about creating elegant user interfaces and delivering exceptional user experiences through clean, efficient code.
 </p>
-
-<div align="center">
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
-</div>
-
-<!-- Horizontal line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- My Expertise Section -->
 <h2 align="center"> My Expertise</h2>
 
 <table align="center">
