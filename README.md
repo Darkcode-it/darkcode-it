@@ -96,9 +96,9 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">whoami</h3>
         <div align="center">  
-          <a href='https://github.com/YOURUSERNAME/project1' target="_blank">
+          <a href='https://github.com/Darkcode-it/whoami' target="_blank">
             <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+1" alt="Project 1" width="100%" />
           </a>
           <p>
