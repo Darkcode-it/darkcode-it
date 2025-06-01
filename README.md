@@ -99,10 +99,10 @@
         <h3 align="center">whoami</h3>
         <div align="center">  
           <a href='https://github.com/Darkcode-it/whoami' target="_blank">
-            <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+1" alt="Project 1" width="100%" />
+            <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+1" alt="whoami" width="100%" />
           </a>
           <p>
-            <a href="https://github.com/YOURUSERNAME/project1" target="_blank">
+            <a href="https://darkcode-it.github.io/whoami/" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
             </a>
             <a href="https://project1-demo.vercel.app" target="_blank">
