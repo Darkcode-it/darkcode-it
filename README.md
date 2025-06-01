@@ -1,63 +1,202 @@
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true" >
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<p align="center">
-  <a href="https://github.com/Darkcode-it" target="_blank">
-        <p align="center"></a>
-<p align="center"> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://github.com/Darkcode-it" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-  <a href="https://github.com/Darkcode-it" target="_blank"  align="center">
-  </a></a>
 <div align="center">
-  <div>قابل توجه دوستان ایرانی تمامی پروژه ها بر روی هاست گیت هستن و انلاین میتونی ببینی نیازی به کُلن ندارن اول بببین اگه بدرد بخور بود برات کُلن کن و پروژه های پایتون هم میتونی در ترمینال لینوکس و ترموکس ازشون استفاده کنی</div>
-    <i style="font-size: 10px;">
-     Hi 👋, I'm Musa Rahd ☝🏻 && A passionate frontend developer
-     <br>
-        "Don't ever let somebody tell you, you can't do something! <br>
-     <b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves,
-     they wanna tell you you can’t do it. <br>
-     <b>If you want something, go get it. </b>"
+  
+  <!-- Profile Header with Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmad%20Rasouli&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 
-      "هرگز اجازه نده کسی به تو بگوید، تو نمی توانی کاری را انجام دهی!
-شما رویایی دارید... باید از آن محافظت کنید.
-<br>
-مردم خودشان نمی توانند کاری را انجام دهند،
-<br>
-می خواهند به شما بگویند که نمی توانید آن را انجام دهید. </i>
+  <!-- Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/YOURUSERNAME/count.svg" alt="Visitor Count" />
+  
+
+
+  
+  <!-- Introduction with Typing Effect -->
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54DF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </h3>
+
+  <!-- Horizontal line -->
+
+<!-- About Me Section -->
+<h2 align="center">About Me</h2>
+<p align="center">
+  Hello, everyone! All my projects include live demo capabilities. I'm passionate about creating elegant user interfaces and delivering exceptional user experiences through clean, efficient code.
+</p>
+
+<div align="center">
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
 </div>
-<br clear="both">
- <p align="center">
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://github.com/Darkcode-it" target="_blank" >
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
-  </a>
- </p>
-<p>
-<p align="center">
-<a href="https://github.com/Darkcode-it" target="_blank" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-</p> 
-<div align="center">
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
-<br />
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 
+<!-- Horizontal line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- My Expertise Section -->
+<h2 align="center"> My Expertise</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Frontend Development</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>Design & Tools</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/Responsive-31A8FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Quality Assurance</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://img.shields.io/badge/Cross_Browser-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Cross Browser">
+        <img src="https://img.shields.io/badge/Performance-4C51BF?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance">
+        <img src="https://img.shields.io/badge/Code_Review-FF4500?style=for-the-badge&logo=review-board&logoColor=white" alt="Code Review">
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>Languages</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://img.shields.io/badge/English-4AB197?style=for-the-badge" alt="English">
+        <img src="https://img.shields.io/badge/Persian-26A69A?style=for-the-badge" alt="Persian">
+        <!-- Add more languages as needed -->
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Skills Progress Section -->
+<h2 align="center">Technical Skills</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode" alt="Skills" />
+</div>
+
+<!-- Skill Bars -->
+
+
+<!-- Horizontal line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Projects Section (You can replace with your actual projects) -->
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1</h3>
+        <div align="center">  
+          <a href='https://github.com/YOURUSERNAME/project1' target="_blank">
+            <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+1" alt="Project 1" width="100%" />
+          </a>
+          <p>
+            <a href="https://github.com/YOURUSERNAME/project1" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+            </a>
+            <a href="https://project1-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" />
+            </a>
+          </p>
+          <p><strong>HTML, CSS, JavaScript, React</strong> - A description of your first project goes here. Mention what problems it solves and the technologies you used.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <div align="center">  
+          <a href='https://github.com/YOURUSERNAME/project2' target="_blank">
+            <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+2" alt="Project 2" width="100%" />
+          </a>
+          <p>
+            <a href="https://github.com/YOURUSERNAME/project2" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+            </a>
+            <a href="https://project2-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" />
+            </a>
+          </p>
+          <p><strong>HTML, CSS, JavaScript, Tailwind</strong> - A description of your second project goes here. Mention what problems it solves and the technologies you used.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 3</h3>
+        <div align="center">  
+          <a href='https://github.com/YOURUSERNAME/project3' target="_blank">
+            <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+3" alt="Project 3" width="100%" />
+          </a>
+          <p>
+            <a href="https://github.com/YOURUSERNAME/project3" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+            </a>
+            <a href="https://project3-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" />
+            </a>
+          </p>
+          <p><strong>React, Tailwind CSS, API Integration</strong> - A description of your third project goes here. Mention what problems it solves and the technologies you used.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 4</h3>
+        <div align="center">  
+          <a href='https://github.com/YOURUSERNAME/project4' target="_blank">
+            <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=Project+4" alt="Project 4" width="100%" />
+          </a>
+          <p>
+            <a href="https://github.com/YOURUSERNAME/project4" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+            </a>
+            <a href="https://project4-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" />
+            </a>
+          </p>
+          <p><strong>React, State Management, Authentication</strong> - A description of your fourth project goes here. Mention what problems it solves and the technologies you used.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Horizontal line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Life Motto Section -->
+<h2 align="center">Life Motto</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=27&pause=1000&color=5865F2&center=true&vCenter=true&repeat=false&width=500&lines=Always+Learning%2C+Always+Building" alt="Motto" />
+</div>
+
+<div align="center" style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; backdrop-filter: blur(5px); padding: 20px; margin: 10px;">
+  <blockquote>
+    <p style="font-style: italic; font-size: 18px;">
+      "Never let anyone tell you that you can't do something!<br>
+      You have a dream... you need to protect it.<br>
+      People can't do something themselves,<br>
+      they want to tell you that you can't do it."
+    </p>
+  </blockquote>
+</div>
+
+<br>
+
+
+<!-- Footer -->
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=30" width="100%"/>
+</div>
+
+<!-- Note to replace YOURUSERNAME with your actual GitHub username throughout the document -->
