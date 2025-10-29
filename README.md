@@ -2,7 +2,7 @@
   <!-- Profile Header with Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ahmad%20Rasouli&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
   <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/YOURUSERNAME/count.svg" alt="Visitor Count" />
+
   <!-- Introduction with Typing Effect -->
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54DF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
