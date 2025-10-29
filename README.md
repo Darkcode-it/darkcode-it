@@ -5,7 +5,7 @@
 
   <!-- Introduction with Typing Effect -->
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54DF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54DF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building;Cybersecurity+Specialist" alt="Typing SVG" />
   </h3>
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
